@@ -25,7 +25,7 @@ Este projeto é uma aplicação simples de "Amigo Secreto" que permite aos usuá
 
 ## Como usar
 
-Acesse e teste o projeto [**clicando Aqui!**](https://christian-rui.github.io/amigo-secreto-ONE/)
+Acesse e teste o projeto [**clicando Aqui!**](https://christianwl.github.io/amigo-secreto-ONE/)
 
 1. **Adicionar Amigos:**
    Digite o nome do amigo no campo de entrada e clique no botão para adicionar.
@@ -64,7 +64,7 @@ Acesse e teste o projeto [**clicando Aqui!**](https://christian-rui.github.io/am
 **Clone o repositório**:
 
 ```bash
-git clone https://github.com/Christian-Rui/amigo-secreto-ONE.git
+git clone https://github.com/christianwl/amigo-secreto-ONE.git
 cd amigo-secreto-ONE
 ```
 
@@ -72,7 +72,10 @@ cd amigo-secreto-ONE
 
 <img width="15%" src="./assets/badge.png">
 
-# Time
+## Autor
 
-| [<img loading="lazy" style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/113655013?v=4" width=115><br><sub>Bearly</sub>](https://github.com/Christian-Rui)
-| :---: |
+<div>
+  <a href="https://github.com/christianwl">
+    <img src="https://contrib.rocks/image?repo=christianwl/amigo-secreto-ONE" alt="foto do(s) autor(es)"/>
+  </a>
+</div>
