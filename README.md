@@ -2,7 +2,7 @@
 
 Este projeto é uma aplicação simples de "Amigo Secreto" que permite aos usuários adicionar amigos a uma lista e sortear um amigo aleatoriamente. O objetivo principal é fortalecer as habilidades em lógica de programação e manipulação de DOM. Este desafio faz parte do programa ONE (Oracle Next Education), através da plataforma da Alura, que visa capacitar estudantes em tecnologia.
 
-![Captura de tela da pagina do Amigo Secreto](./assets/AmigoSecretoCaptura.png)
+![Captura de tela da pagina do Amigo Secreto](./readme-content/AmigoSecretoCaptura.png)
 
 ## Funcionalidades
 
@@ -70,7 +70,7 @@ cd amigo-secreto-ONE
 
 ## Badges do Projeto
 
-<img width="15%" src="./assets/badge.png">
+<img width="15%" src="./readme-content/badge.png">
 
 ## Autor
 
